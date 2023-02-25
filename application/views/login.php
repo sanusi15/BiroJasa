@@ -24,7 +24,7 @@
                         <a href="index.html"><img src="assets/images/logo/logo.png" alt="Logo"></a>
                     </div> -->
                     <h1 class="auth-title">Log in.</h1>
-                    <p class="auth-subtitle mb-5">Please fill username and password column.</p>
+                    <p class="auth-subtitle mb-5">Silahkan isi kolom username dan password.</p>
 
                     <form action="<?= base_url('signIn'); ?>" method="post">
                         <div class="form-group position-relative has-icon-left mb-4">
@@ -42,9 +42,9 @@
                         <button type="submit" class="btn btn-primary btn-block btn-lg shadow-lg mt-3">Log in</button>
                     </form>
                     <div class="text-center mt-5 text-lg fs-4">
-                        <p class="text-gray-600">Don't have an account? <a href="auth-register.html" class="font-bold">Sign
+                        <p class="text-gray-600">Belum memiliki akun? <a href="auth-register.html" class="font-bold">Sign
                                 up</a>.</p>
-                        <p><a class="font-bold" href="auth-forgot-password.html">Forgot password?</a>.</p>
+                        <p><a class="font-bold" href="auth-forgot-password.html">Lupa password?</a>.</p>
                     </div>
                 </div>
             </div>
