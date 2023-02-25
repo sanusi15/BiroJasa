@@ -1,5 +1,5 @@
-![Screenshot 2023-02-25 084531](https://user-images.githubusercontent.com/88567336/221329603-978fdab0-9638-41a7-b347-b6e26c8b5bb6.png)
-![Screenshot 2023-02-25 085234](https://user-images.githubusercontent.com/88567336/221329694-e36f2880-e950-4057-82fe-044bb57dddfb.png)
+https://user-images.githubusercontent.com/88567336/221329603-978fdab0-9638-41a7-b347-b6e26c8b5bb6.png
+https://user-images.githubusercontent.com/88567336/221329694-e36f2880-e950-4057-82fe-044bb57dddfb.png
 
 Built using :
 - Front-end : HTML + CSS + JavaCript
