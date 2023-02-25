@@ -1,0 +1,19 @@
+/* body{
+    background: url('http://localhost:8080/aura/assets/img/background/971.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: max-content;
+
+}
+.container_login{
+    
+    height: max-content;
+} */
+.container-login100{
+    background: url('../login/images/bg-01.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
